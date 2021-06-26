@@ -1,4 +1,5 @@
 
+with using <a href="https://www.npmjs.com/package/axios" target="_blank">axios</a> package we can get data from <a target="_blank" href="https://www.coingecko.com/en">CoinGecko</a> and show them in react page
 
 https://user-images.githubusercontent.com/86445458/123517035-e9ea2d00-d653-11eb-8abd-f9ba235ae545.mp4
 
